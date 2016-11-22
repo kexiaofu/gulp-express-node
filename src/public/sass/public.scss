@@ -1,0 +1,40 @@
+// font color
+$color-red:#ff5393;
+
+// font color
+$theme-textcolor:#000000;  //一级标题颜色
+$theme-textcolor-r:#fe5090; //辅助色     红
+$theme-textcolor-b:#68acef;   //辅助色    蓝
+$theme-textcolor-f:#fff;  //辅助色    白
+
+$subtheme-textcolor:#8d8d8d; //二级标题颜色
+
+// backgroud
+$theme-backgroud:#fe5090;    //主题色
+$theme-backgroud-g:#f3f3f3;  //灰色
+$theme-backgroud-f:#fff;   //白色
+
+$subtheme-backgroud-b:#68acef;  //辅助色    蓝
+$subtheme-backgroud-r:#fdaec1;  //辅助色    红
+$subtheme-backgroud-rr:#ffedf4;  //辅助色  浅红
+
+// border
+$border-color:#cbcbcb;  //边框颜色
+
+//按钮
+$button-color:#c7c7cc;
+
+$red:#eee;
+
+body,ul,ol{
+  margin:0;
+  padding:0;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul,ol,li{
+  list-style-type: none;
+}
